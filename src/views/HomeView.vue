@@ -242,7 +242,7 @@
                         <h3 class="text-secondary">The MOROCCO'S Best Pizza</h3>
                         <div class="hr-line bg-secondary mb-3"></div>
                         <div class="description">
-                            This is the pizza's web app, the second what i made with Laravel, <br>
+                            This is the pizza's web app, the second what i made with Laravel,
                             Honestly, i programmed it for more control over Laravel.
                         </div>
                     </div>
