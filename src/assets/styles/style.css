@@ -1,0 +1,31 @@
+:root {
+    --green: #2ec1ac;
+    --gray:  #aaa;
+}
+* {
+    font-family: 'Poppins', sans-serif;
+}
+section {
+    height: auto;
+}
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+.hr-line {
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+.sendBtn {
+    color: white;
+    background: var(--green);
+}
+h6.signature {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background: var(--green);
+}
+.signature:hover {
+    background: #279c8c;
+}
