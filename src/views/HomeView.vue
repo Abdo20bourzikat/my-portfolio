@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row mt-4">
                 <div class="col-lg-6 text-secondary shadow p-5">
-                    <p class="text-secondary">Hello, i'm Abdo:)</p>
+                    <p class="text-secondary">Hello, i'm Abderrahmane:)</p>
                     <h3 class="text-secondary pl-5">I'm a Full Stack Web Developer</h3><br>
                     <h6>
                         Extremely motivated to constantly develop my skills and grow professionally.
