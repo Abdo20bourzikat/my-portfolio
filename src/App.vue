@@ -39,7 +39,7 @@
                   <br>
                   
                   <span class="badge bg-light text-dark fs-6 mt-1 p-2">
-                    <a href="https://www.linkedin.com/in/abderrahmane-bourzikat-648104249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGAlY%2BGo%2BSH2Ni3KrURHqIA%3D%3D">
+                    <a href="https://www.linkedin.com/in/abderrahmane-bourzikat-648104249/">
                     <i class="bi bi-linkedin me-1"></i>Linkedin
                   </a>
                   </span><br>
