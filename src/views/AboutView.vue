@@ -7,7 +7,7 @@
                     <img class="pic" src="../assets/images/projects/IMG-20220810-WA0027.jpg" alt="">
                 </div>
                 <p><a href="https://github.com/Abdo20bourzikat"><i class="fa-brands fa-github"></i> Github</a></p>
-                <p><a href="https://www.linkedin.com/in/abderrahmane-bourzikat-648104249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGAlY%2BGo%2BSH2Ni3KrURHqIA%3D%3D"><i class="fa-brands fa-linkedin"></i> Linkedin</a></p>
+                <p><a href="https://www.linkedin.com/in/abderrahmane-bourzikat-648104249/"><i class="fa-brands fa-linkedin"></i> Linkedin</a></p>
                 <p><a href="https://profile.indeed.com/?hl=en_MA&co=MA&from=gnav-passport--passport-webapp&_ga=2.161646584.574569220.1671630347-708396068.1660642372"><i class="fa-brands fa-pagelines"></i> Indeed</a></p>
                 <p><a href="https://instagram.com/abdobourzikat"><i class="fa-brands fa-instagram"></i> Instagram</a></p>
                 <p><a href="https://twitter.com/AbDo24919180"><i class="fa-brands fa-twitter"></i> Twitter</a></p>
