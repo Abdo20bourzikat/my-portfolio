@@ -16,7 +16,7 @@
         <div class="col-md-8">
             <div class="rounded shadow">
                 <div class="content p-3">
-                    Hello, iam Abdo Bourzikat, i'm a 22 years old,
+                    Hello, iam Abderrahmane, i'm a 22 years old,
                     i'm a junior full stack web developer, i'm from Morocco,
                     and i live in Fes. <br><br>
                     I started learning programming in summer of 2022, the first what i learned 
