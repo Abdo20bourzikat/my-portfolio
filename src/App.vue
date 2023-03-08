@@ -13,9 +13,9 @@
     <div class="container-fluid bg-white mt-5 shadow">
         <div class="row">
             <div class="col-lg-4 p-4">
-                <h3 class="h-font fw-bold fs-3 mb-2">Abdo</h3>
+                <h3 class="h-font fw-bold fs-3 mb-2">Abderrahmane</h3>
                 <p>
-                    Hello, i'm Abdo:)
+                    Hello, i'm Abderrahmane:)
                     I'm a full stack web developer. <br>
                     Extremely motivated to constantly develop my skills and grow professionally.
                     I am confident in my ability to come up with interesting ideas in the field of web development.
@@ -45,7 +45,7 @@
                   </span><br>
                   <span class="badge bg-light text-dark fs-6 mt-1 p-2">
                     <a href="https://profile.indeed.com/?hl=en_MA&co=MA&from=gnav-passport--passport-webapp&_ga=2.161646584.574569220.1671630347-708396068.1660642372">
-                    <i class="bi bi-linkedin me-1"></i>Indeed
+                    <i class="bi bi-flower2"></i>Indeed
                     </a>
                   </span><br>
                 
@@ -58,7 +58,7 @@
             </div>
         </div>
     </div>
-    <h6 class="signature">Develped and designed by Abdo &copy;</h6>
+    <h6 class="signature">Develped and designed by Abderrahmane &copy;</h6>
 </template>
 
 
