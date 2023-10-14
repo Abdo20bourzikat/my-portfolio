@@ -13,12 +13,11 @@
     <div class="container-fluid bg-white mt-5 shadow">
         <div class="row">
             <div class="col-lg-4 p-4">
-                <h3 class="h-font fw-bold fs-3 mb-2">Abdo</h3>
+                <h3 class="h-font fw-bold fs-3 mb-2">Abderrahmane</h3>
                 <p>
-                    Hello, i'm Abdo:)
-                    I'm a full stack web developer. <br>
-                    Extremely motivated to constantly develop my skills and grow professionally.
-                    I am confident in my ability to come up with interesting ideas in the field of web development.
+                  Hello, I'm Abderrahmane, a passionate full-stack web developer. <br> 
+                  My journey in web development is driven by an insatiable appetite for learning and professional growth. 
+                  I'm confident in my ability to conceptualize and bring captivating web development ideas to life
                 </p>
             </div>
             <div class="col-lg-4 p-4 links">

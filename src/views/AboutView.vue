@@ -16,25 +16,19 @@
         <div class="col-md-8">
             <div class="rounded shadow">
                 <div class="content p-3">
-                    Hello, iam Abdo Bourzikat, i'm a 22 years old,
-                    i'm a junior full stack web developer, i'm from Morocco,
-                    and i live in Fes. <br><br>
-                    I started learning programming in summer of 2022, the first what i learned 
-                    was Algorithms, it took a lot of time from me, but it's important it gives
-                    you more logic.
-                    about my favorite programming language is <i>PHP</i> i guess because i have a tendencies
-                    to the server side and it's a strong programming language.<br><br>
-                    And about projects, guess what? the most programmers, when they think about their first project,
-                    laugh a lot for their terrible mistakes and <i>DRY</i>,<br><strong>just kidding</strong> 
-                    those mistakes are what we are now.<br><br>
-                    My reel first project was about the institute activities, by the record this institute where i was study:), 
-                    it's was a terrible website but it's work. :) <br>
-                    Honestly i learned a lot of lot from this project. <br><br>
-                    And if you were a beginners, try to build a many of projects,
-                    that equals a great feeling, more confident, more productivity. <br>
-                    About my free time, i learn other skills,
-                    i watch series, and listen to music. <br>
-                    Thank's For Your Reading.
+                    Hello, I'm Abderrahmane, a 23-year-old junior full-stack web developer hailing from Morocco and currently residing in Fes. <br>
+                    I embarked on my programming journey during the summer of 2020, and my initial foray into this world began with the intricate world of algorithms. 
+                    While it demanded significant time and effort, it proved to be an invaluable foundation for developing logical thinking. <br> <br>
+                    When it comes to my favorite programming language, I have a strong affinity for <i>PHP</i>. 
+                    Perhaps it's because I lean towards server-side development, and PHP has a robust reputation.
+                    Speaking of projects, we all have those memorable moments when we look back at our first endeavors and chuckle at the mistakes and <i>DRY</i> 
+                    principles we once grappled with. <strong>Just kidding!</strong> Those very mistakes have shaped us into the developers we are today. <br>
+                    My inaugural project was centered around documenting the activities of the institute I was attending. Admittedly, 
+                    it wasn't a masterpiece, but it worked – and I learned immeasurable lessons along the way. <br><br>
+                    For aspiring beginners out there, I wholeheartedly recommend diving into numerous projects. 
+                    Each one brings a sense of accomplishment, heightened confidence, and increased productivity.
+                    In my spare time, I'm constantly expanding my skillset, indulging in my favorite series, and immersing myself in music. <br><br>
+                    Thank you for taking the time to get to know me.
                 </div>
             </div>
         </div>
