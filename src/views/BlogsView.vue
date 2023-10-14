@@ -6,7 +6,7 @@
             <div class="row mt-4">
                 <div class="col-lg-12 bg-white rounded shadow p-4">
                     <h3>Institute: IFMOTICA </h3>
-                    <span class="badge bg-light text-secondary fs-6">
+                    <span class="bg-light text-secondary fs-6 duration">
                         <h4>Duration: March 7, 2022, to April 7, 2022</h4>
                     </span>
                     <p class="mt-3">
@@ -34,7 +34,7 @@
             <div class="row mt-4">
                 <div class="col-lg-12 bg-white rounded shadow p-4">
                     <h3>Company: Geo de technologie et d'innovation</h3>
-                    <span class="badge bg-light text-secondary fs-6">
+                    <span class="bg-light text-secondary fs- duration">
                         <h4>Duration: October 3, 2022, to December 3, 2022</h4>
                     </span>
                     <p class="mt-3">
@@ -59,7 +59,7 @@
             <div class="row mt-4">
                 <div class="col-lg-12 bg-white rounded shadow p-4">
                     <h3>Company: Giantlink</h3>
-                    <span class="badge bg-light text-secondary fs-6">
+                    <span class="bg-light text-secondary fs-6 duration">
                         <h4>Duration: January 1, 2023, to March 1, 2023</h4>
                     </span>
                     <p class="mt-3">
@@ -83,7 +83,7 @@
             <div class="row mt-4">
                 <div class="col-lg-12 bg-white rounded shadow p-4">
                     <h3>Company: Giantlink</h3>
-                    <span class="badge bg-light text-secondary fs-6">
+                    <span class="bg-light text-secondary fs-6 duration">
                         <h4>Duration: March 15, 2023, to Present</h4>
                     </span>
                     <p class="mt-3">
@@ -128,5 +128,12 @@
     </div>
 </template>
 
-<script>
-</script>
+<style>
+   @media screen and (max-width: 560px) {
+        span h4 {
+            width: 150px;
+        }
+
+        
+    }
+</style>
